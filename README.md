@@ -11,7 +11,7 @@ Now we will head on to our Pycharm project. Here we will install the required pa
 
 after package installation delete the file in 'clicked_photo' and 'face_encoding' folder which we get after downloading the files from github.
 
-Now run the python file
+Now run the python file(ctrl + shift + f10)
 
 (After opening of the python file #new page)
 
@@ -22,7 +22,7 @@ Click option 'Generate' which will ask for the password "yash123".
 Now we gonna click 'Start Student Enrollment' option for storing student data and face
 (after clicking the option you can see the options like 'Enter name of person', 'Enter college id', 'Enter batch', 'Enter department', Now click save.  After you can click the 'Enroll the image' option for storing the image.) 
 
-After enrolling all the face we can start the 'Start Attendence' option to start the attendence.We can see the person Name written on the screen only one time so that multiple data of same person can be avoided. Now we can check all the student timing in the database in the 'present_student_table.
+After enrolling all the face we can start the 'Start Attendence' option to start the attendence (press q to close the video). We can see the person Name written on the screen only one time so that multiple data of same person can be avoided. Now we can check all the student timing in the database in the 'present_student_table.
 
 if we want to reset we can click the reset all the things button
 
