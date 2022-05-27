@@ -1,0 +1,2 @@
+Delete this file before running.
+This folder contain student enrolled photo.
