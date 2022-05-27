@@ -7,7 +7,7 @@ In this project we are going to perform attendence using face recognition
 First we gonna install pycharm and download the files from github
 
 Now we will head on to our Pycharm project. Here we will install the required packages from the requirement.txt file.
-(to know how to install the package from requirement.txt file refer video ' https://youtu.be/empqyr7vZ8o?t=173 ' from time 2:53)
+(to know how to install the package from requirement.txt file refer video ' https://youtu.be/empqyr7vZ8o?t=173 ' from time 2:53)(we need to move the requirement.txt file into 'venv\Scripts\' folder)
 
 after package installation delete the file in 'clicked_photo' and 'face_encoding' folder which we get after downloading the files from github.
 
