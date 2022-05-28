@@ -54,7 +54,7 @@ lbl16.place(x=155,y=405)
 
 ########################### mail ###########################################################
 def send_an_email():      # use to send the database by mail
-            me = 'yg852062@student.nitw.ac.in'     # enter sender email id
+            me = 'ygarg042005@gmail.com'     # enter sender email id
             toaddr = mail_id                  # email id of person to send the mail      
             subject = "Student Attendence"     # write Subject
                       
@@ -76,7 +76,7 @@ def send_an_email():      # use to send the database by mail
                 s.ehlo()  
                 s.starttls()  
                 s.ehlo()  
-                s.login(user = 'yg852062@student.nitw.ac.in', password = 'Yg&9649@')  # User id & password use to send the mail (sender mail)
+                s.login(user = 'ygarg042005@gmail.com', password = 'AsdfghjkL&@')  # User id & password use to send the mail (sender mail)
                 s.send_message(msg)  
                 s.sendmail(me, toaddr, msg.as_string())  
                 s.quit()
