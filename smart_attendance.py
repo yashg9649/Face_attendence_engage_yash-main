@@ -101,9 +101,9 @@ def setTextInput1():
         mailid.delete(0, END)
 
         lbl14=Label(root,text ="Send the mail",fg ='peach puff' , font =("times new roman", 30),bg='steel blue')
-        lbl14.place(x=1275,y=875)
+        lbl14.place(x=1300,y=875)
 
-        btn9 = Button(root, text = 'Send',bg='yellow', bd = '10',command = send_an_email) # it creates the send button to send the mail
+        btn9 = Button(root, text = 'Confirm',bg='yellow', bd = '10',command = send_an_email) # it creates the send button to send the mail
         btn9.place(x=1200, y=880)
         
         
@@ -119,7 +119,7 @@ mailid=Entry(root,width=15,font=large_font,fg = 'DarkOrange3') # this create ent
 mailid.grid(row=0, column=1)
 mailid.place(x=1400,y=762)
     
-btn3 = Button(root, text = 'Save',bg='yellow', bd = '10',command = setTextInput1) # this create submit button of entry box, it submit the mail
+btn3 = Button(root, text = 'Send',bg='yellow', bd = '10',command = setTextInput1) # this create submit button of entry box, it submit the mail
 btn3.place(x=1500, y=810)
 
 
