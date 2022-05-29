@@ -1,5 +1,6 @@
 # Face_attendence_engage_yash-main
 note1 - install python and pip for running this project.
+
 note2 - To open the database online database opener can be used. Link - ( https://inloop.github.io/sqlite-viewer/ )
 
 (Overview to how to run the project files and do the attendence using face recognition)
